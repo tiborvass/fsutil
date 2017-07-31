@@ -6,9 +6,9 @@ import (
 	"os/exec"
 	"testing"
 
-	"github.com/docker/docker/pkg/archive"
-	"github.com/docker/docker/pkg/chrootarchive"
-	"github.com/docker/docker/pkg/reexec"
+	"github.com/moby/moby-core/pkg/archive"
+	"github.com/moby/moby-core/pkg/chrootarchive"
+	"github.com/moby/moby-core/pkg/reexec"
 	"github.com/stevvooe/continuity"
 )
 
