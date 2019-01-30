@@ -3,7 +3,7 @@ module github.com/tonistiigi/fsutil
 require (
 	github.com/Microsoft/go-winio v0.4.11 // indirect
 	github.com/Microsoft/hcsshim v0.8.5 // indirect
-	github.com/containerd/containerd v1.2.2
+	github.com/containerd/containerd v1.2.1-0.20181221132743-47b328aab791
 	github.com/containerd/continuity v0.0.0-20181001140422-bd77b46c8352
 	github.com/docker/docker v0.7.3-0.20180531152204-71cd53e4a197
 	github.com/docker/go-units v0.3.3 // indirect
